@@ -1,0 +1,18 @@
+{
+    "name": "soswapp/fancybox.soswapp",
+    "description": "fancyapps/fancybox: - optimized for 7 OS Web",
+    "keywords": ["css", "javascript","7","seven","os","web","fancybox"],
+    "homepage": "https://github.com/soswapp/fancybox.soswapp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "dev@ikechukwuokalia.com"
+        }
+    ],
+    "require": {
+      "soswapp/jquery.soswapp" : ">=0.1@stable"
+    },
+    "require-dev": {}
+}

@@ -1,0 +1,26 @@
+{
+  "nav" : false,
+  "icon" : "",
+  "name" : "soswapp/fancybox.soswapp",
+  "title" : "FancyBox Plugin",
+  "description" : "FancyBox Plugin.",
+  "homepage" : "https://github.com/soswapp/fancybox.soswapp",
+  "authors": [
+      {
+        "name": "Ikechukwu Okalia",
+        "email": "dev@ikechukwuokalia.com"
+      },
+      {
+        "name": "Tym Frontiers Ltd.",
+        "email": "dev@tymfrontiers.com"
+      }
+  ],
+  "support" : {
+    "email" : "dev@tymfrontiers.com",
+    "website" : "https://dev.tymfrontiers.com",
+    "kollabo" : "tymfrontiers",
+    "twitter" : "tymfrontiers",
+    "facebook" : "tymfrontiers",
+    "instagram" : "tymfrontiers"
+  }
+}
